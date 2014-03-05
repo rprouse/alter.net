@@ -28,7 +28,7 @@ using System.Xml.Serialization;
 
 namespace alteridem.net.Extensions
 {
-    public static class XmlSericalizationExtension
+    public static class XmlSerializationExtension
     {
         public static void SerializeToFile<T>(this T o, string filename, bool append = false)
         {

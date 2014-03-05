@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extensions\NumericExtensions.cs" />
-    <Compile Include="Extensions\XmlSericalizationExtension.cs" />
+    <Compile Include="Extensions\XmlSerializationExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
